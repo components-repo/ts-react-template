@@ -1,0 +1,23 @@
+{
+  "name": "ts-react-template",
+  "version": "0.1.0",
+  "description": "快速创建基于TS的react项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/components-repo/ts-react-template.git"
+  },
+  "keywords": [
+    "TS",
+    "react"
+  ],
+  "author": "ming995",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/components-repo/ts-react-template/issues"
+  },
+  "homepage": "https://github.com/components-repo/ts-react-template#readme"
+}
